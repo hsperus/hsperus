@@ -1,15 +1,15 @@
 ```
 
-           /\                  hesperus@github ~
-       /\  /  \  /\            ──────────────────────────────────────────────────────
-      /  \/    \/  \
-     /   /      \   \          OS .................. Hesper Labs
-    /   /   /\   \   \         Role ................ AI Engineer & Full-Stack Dev
-    \   \  /  \  /   /         Location ............ Remote
-     \   \/    \/   /          Languages ........... Python, TypeScript, Rust, C++
-      \  /\    /\  /           AI/ML ............... LLMs, Agents, RAG, Transformers
-       \/  \  /  \/            Backend ............. FastAPI, Next.js, Node.js
-           \/                  Frontend ............ React, Tailwind, Vite
+          *                    hesperus@github ~
+      *   *   *                ──────────────────────────────────────────────────────
+       *  *  *
+        * * *                  OS .................. Hesper Labs
+   **** *** ****               Role ................ AI Engineer & Full-Stack Dev
+        * * *                  Location ............ Remote
+       *  *  *                 Languages ........... Python, TypeScript, Rust, C++
+      *   *   *                AI/ML ............... LLMs, Agents, RAG, Transformers
+          *                    Backend ............. FastAPI, Next.js, Node.js
+                               Frontend ............ React, Tailwind, Vite
                                Infra ............... Docker, PostgreSQL, Redis, MinIO
                                Tools ............... Claude, GPT, Gemini, Ollama
 
