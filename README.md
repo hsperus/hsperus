@@ -1,5 +1,11 @@
-```
+<table>
+<tr>
+<td valign="top" width="300">
+<img src="https://github.com/hsperus.png" width="280" style="border-radius: 12px;" />
+</td>
+<td valign="top">
 
+```
   hesperus@github ~
   ──────────────────────────────────────────────────────
 
@@ -25,26 +31,16 @@
                        Self-hosted, 19-page dashboard
                        github.com/Hesper-Labs/owly
 
-  ── Other ──────────────────────────────────────────────
-
-  minnak-gpt .......... Transformer from scratch (NumPy)
-  turktoken ........... Turkish BPE tokenizer
-  byte-pair-encoding .. Learn how GPT tokenizes text
-  clai ................ Terminal AI chat with Ollama
-
-  ── Stats ──────────────────────────────────────────────
-
-  Repos ............... 17
-  Open Source LOC ...... 40,000+
-  Focus ............... AI agents & open-source tools
-
   ── Contact ────────────────────────────────────────────
 
   Email ............... hsperus@gmail.com
   Web ................. hesperlabs.com
   Org ................. github.com/Hesper-Labs
-
 ```
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Hesper-Labs/white-ops"><img src="https://img.shields.io/badge/White--Ops-55%20Tools-black?style=flat-square" /></a>
